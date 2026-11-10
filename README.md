@@ -61,9 +61,9 @@ The following table highlights the industry's premier commercial and managed Saa
 
 ## 🛠️ Open-Source CI/CD & Build Orchestration Projects
 
-Explore prominent self-hosted build servers, containerized workflow orchestrators, and pipeline acceleration engines. Sorted by **GitHub Star count (descending)**:
+Explore prominent self-hosted build servers, containerized workflow orchestrators, and pipeline acceleration engines. Sorted by **GitHub Stars_Count (descending)**:
 
-| Project | ⭐ Stars | 📖 Description |
+| Project | ⭐ GitHub_Stars | 📖 Description |
 |:---|:---|:---|
 | **[nektos/act](https://github.com/nektos/act)** | [![Stars](https://img.shields.io/github/stars/nektos/act?style=social&color=white)](https://github.com/nektos/act/stargazers) | Run your GitHub Actions locally inside Docker containers with fast feedback loops and zero cloud runner cost. |
 | **[harness/drone](https://github.com/harness/drone)** | [![Stars](https://img.shields.io/github/stars/harness/drone?style=social&color=white)](https://github.com/harness/drone/stargazers) | Modern container-native Continuous Integration platform written in Go, executing every build step in isolated ephemeral Docker containers. |
@@ -93,7 +93,7 @@ Contributions make the open-source community thrive! You can contribute in minut
 
 1. 🍴 **Fork the repository**
 2. 🌿 **Create a new branch** (`git checkout -b feature/add-new-ci-tool`)
-3. 📝 **Add your entries** adhering to the existing structure (include product name, link, verified company size or GitHub star badge, and factual descriptions)
+3. 📝 **Add your entries** adhering to the existing structure (include product name, link, verified company size or GitHub Stars_Badge, and factual descriptions)
 4. 🚀 **Commit your changes** (`git commit -m "feat: add NewTool to CI/CD list"`)
 5. 📬 **Open a Pull Request** with a concise description of why it fits this collection
 

@@ -1,6 +1,6 @@
 # Awesome-CI-CD-Pipeline-Build-Integrations
 
-# Top CI/CD Pipeline & Build Integrations Ecosystem
+## Top CI/CD Pipeline & Build Integrations Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Continuous Integration, Continuous Delivery & Automated Build Orchestration*  

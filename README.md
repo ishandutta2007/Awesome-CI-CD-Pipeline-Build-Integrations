@@ -61,7 +61,7 @@ The following table highlights the industry's premier commercial and managed Saa
 
 ## 🛠️ Open-Source CI/CD & Build Orchestration Projects
 
-Explore prominent self-hosted build servers, containerized workflow orchestrators, and pipeline acceleration engines. Sorted by **GitHub Stars_Count (descending)**:
+Explore prominent self-hosted build servers, containerized workflow orchestrators, and pipeline acceleration engines. Sorted by **GitHub_Stars_Count (descending)**:
 
 | Project | ⭐ GitHub_Stars | 📖 Description |
 |:---|:---|:---|
@@ -93,7 +93,7 @@ Contributions make the open-source community thrive! You can contribute in minut
 
 1. 🍴 **Fork the repository**
 2. 🌿 **Create a new branch** (`git checkout -b feature/add-new-ci-tool`)
-3. 📝 **Add your entries** adhering to the existing structure (include product name, link, verified company size or GitHub Stars_Badge, and factual descriptions)
+3. 📝 **Add your entries** adhering to the existing structure (include product name, link, verified company size or GitHub_Stars_Badge, and factual descriptions)
 4. 🚀 **Commit your changes** (`git commit -m "feat: add NewTool to CI/CD list"`)
 5. 📬 **Open a Pull Request** with a concise description of why it fits this collection
 
